@@ -1,6 +1,6 @@
 # redemrp_craftzones
 
-  
+ 
 Dependencies
     redem (https://github.com/kanersps/redem)
     redem_roleplay (https://github.com/RedEM-RP/redem_roleplay)
