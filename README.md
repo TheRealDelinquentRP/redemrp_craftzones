@@ -1,4 +1,4 @@
-# redemrp_craftzones
+Creates crafting zones for moonshine  stills and object based zones for campfires and cauldron.
 
  
 Dependencies
